@@ -68,7 +68,7 @@ html,body{
     height: 45px;
     border-radius: 50%;
     background-color: rgb(214, 78, 101);
-    color: #fff;
+    color: black;
 }
 .bubble:hover{
     font-weight: 900;
